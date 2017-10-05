@@ -38,7 +38,7 @@ You have now created your Watson Workspace app and the associated metadata
   Allow self signed certificate
   message-created
   space-members-added
-  message-annotation-added
+  message-annotation-added 
 6. Click Save
 7. On the following page, copy the webhook secret. This will be used in the webhook.js file below.
 
