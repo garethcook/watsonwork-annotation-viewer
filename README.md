@@ -60,6 +60,12 @@ You have now created your Watson Workspace app and the associated metadata
 1. In your Watson Workspace app, enable your webhook.
 
 
+## Using your app
+1. Create a Space
+2. Add your app to the Space
+3. Type a sentence into the Space e.g. I love to code Workspace Apps
+4. Type '@getannotations'
+5. The annotations will display, which is the analysis Watson has performed on your sentence.
 
 **Reference**
 
